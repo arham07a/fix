@@ -5,7 +5,7 @@ export const GALLERY_ITEMS: MediaItem[] = [
     id: '1',
     type: 'photo',
     url: 'https://files.catbox.moe/ftiv27.jpg',
-    thumbnail: '//assist//ThumbImages//04FEB26_1.jpg',
+    thumbnail: '/assist/ThumbImages/04FEB26_1.jpg',
     title: '#Snap-01',
     date: 'Feb 04, 2026',
     location: 'ANS'

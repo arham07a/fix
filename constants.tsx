@@ -5,7 +5,7 @@ export const GALLERY_ITEMS: MediaItem[] = [
     id: '1',
     type: 'photo',
     url: 'https://files.catbox.moe/ftiv27.jpg',
-    thumbnail: '/ThumbImages/04FEB26_1.jpg',
+    thumbnail: 'assist\\ThumbImages\\04FEB26_1.jpg',
     title: '#Snap-01',
     date: 'Feb 04, 2026',
     location: 'ANS'
@@ -14,7 +14,7 @@ export const GALLERY_ITEMS: MediaItem[] = [
     id: '2',
     type: 'photo',
     url: 'https://files.catbox.moe/ra0fqj.jpg',
-    thumbnail: 'assist//ThumbImages//04FEB26_2.jpg',
+    thumbnail: 'assist\\ThumbImages\\04FEB26_2.jpg',
     title: '#Snap-02',
     date: 'Feb 04, 2026',
     location: 'ANS'
@@ -23,7 +23,7 @@ export const GALLERY_ITEMS: MediaItem[] = [
     id: '3',
     type: 'photo',
     url: 'https://files.catbox.moe/defoyz.jpg',
-    thumbnail: 'assist//ThumbImages//04FEB26_3.jpg',
+    thumbnail: 'assist\\ThumbImages\\04FEB26_3.jpg',
     title: '#Snap-03',
     date: 'Feb 04, 2026',
     location: 'ANS'
